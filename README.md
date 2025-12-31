@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I’m Utsav Kumar<br><br>🎓 Computer Science Engineering Undergraduate | Cloud & DevOps Enthusiast<br><br>I’m a Computer Science undergraduate with strong hands-on experience in AWS, DevOps, and cloud automation. I enjoy designing, deploying, and automating scalable infrastructure and web applications using modern DevOps practices.<br><br>🚀 About Me<br><br>Practical experience with AWS cloud services (EC2, S3, IAM, RDS, ELB, Route 53, WAF)<br><br>Strong interest in DevOps, Infrastructure as Code, and CI/CD pipelines<br><br>Experienced in deploying applications on cloud & virtual machines<br><br>Passionate about automation, scalability, and system reliability<br><br>🛠️ Tech Stack<br><br>Cloud: AWS<br><br>DevOps & Automation: Docker, Jenkins, Terraform, Ansible, GitHub, GitLab, n8n<br><br>Programming: Python, Java<br><br>OS: Linux/Unix, Windows<br><br>Core CS: OOP, Operating Systems, DBMS<br><br>📌 Projects<br><br>AWS Infrastructure Automation (Terraform + Jenkins)<br><br>Built a complete 3-tier AWS architecture using Terraform<br><br>Automated infrastructure lifecycle with Jenkins CI/CD<br><br>AI Assistant using APIs<br><br>Developed a Python-based AI assistant with voice recognition and TTS<br><br>Automated real-time data retrieval using external APIs<br><br>🏅 Certifications<br><br>AWS Academy Graduate – Cloud Foundations<br><br>AWS Academy – Cloud Architecting<br><br>Red Hat System Administration I (RH124 – RHEL 9.3)<br><br>🌱 Currently Exploring<br><br>Advanced AWS & cloud security<br><br>Kubernetes & container orchestration<br><br>Production-grade DevOps pipelines<br><br>📫 Let’s connect:<br><br>GitHub: https://github.com/Nurarihyon122<br><br>LinkedIn: https://www.linkedin.com/in/utsav-kumar-4a148b279
 
-<!--
-**Nurarihyon122/Nurarihyon122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/utsav-kumar-4a148b279) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarutsav976@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=plastic&logo=vagrant&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nurarihyon122&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nurarihyon122&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurarihyon122&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Nurarihyon122&icon=0&color=13)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
